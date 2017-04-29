@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Quango';
+	src: url('Quango.otf');
+}
+header {
+	font-family: Quango, Garamond-Normal;
+}
