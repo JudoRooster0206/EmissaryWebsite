@@ -1,7 +1,27 @@
+*{
+	background-color: black;
+	color: white;
+}
+
 @font-face {
 	font-family: 'Quango';
 	src: url('Quango.otf');
 }
 header {
 	font-family: Quango, Garamond-Normal;
+	background-color: black
+}	
+
+span {
+	font-size:100px;
 }
+
+#SignIn_Corner {
+	float: right;
+}
+header img {
+	height: 120px;
+	width: 120px;
+	float: left;
+}
+
