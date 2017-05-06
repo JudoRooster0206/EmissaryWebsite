@@ -1,19 +1,25 @@
-*{
-	background-color: black;
-	color: white;
-}
-
 @font-face {
 	font-family: 'Quango';
 	src: url('Quango.otf');
 }
-header {
+
+*{
 	font-family: Quango, Garamond-Normal;
+	background-color: black;
+	color: white;
+}
+ol{
+	margin-top:50px;
+	border: 5px;
+	border-color: white;
+}
+
+header {
 	background-color: black
 }	
 
 span {
-	font-size:100px;
+	font-size:80px;
 }
 
 #SignIn_Corner {
